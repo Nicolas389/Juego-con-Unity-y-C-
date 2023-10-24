@@ -1,0 +1,3668 @@
+fileFormatVersion: 2
+guid: d1c33df0f03a93c48aea317784e8185b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fondo1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20809589e4f3cb642934da3cb1180af3
+      internalID: -94564923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fond2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 767
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e1408e86b67cf43ad10e06e22fd24c
+      internalID: -963727175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d67fdc91984a4f9604d07916396d6
+      internalID: -647062607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1007
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28719c3214b6097439268173a8b564ce
+      internalID: 1546263830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 990
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6b0376bb50e348a3130824f3ac634
+      internalID: 1728583659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_5
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 973
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458bf18a0b96404ca0836c6202492b2
+      internalID: 543779857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 956
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e76705598b554da0d14cf8060f72b
+      internalID: 1627463970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 939
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deae748721dd1c42a9f7637194cb235
+      internalID: -961546594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54a54db744505644ad2696b126b0858
+      internalID: -1836912883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a082e449e7acd419d58fef83b1cd1b
+      internalID: 1199307541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 734
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba3f5d5b007f6d40bf327cffcd26985
+      internalID: -2020143266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92063528538f7a4592dac9433e00dc1
+      internalID: -1981491890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2de829eca6d2a43befc80bcf61bd6b
+      internalID: -1131833996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c03e806163357449e99842680bf2cb
+      internalID: -2005996934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028526a891eef39489feaaef46d5d3f5
+      internalID: 792445629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97767d408306f44bcb613e11cc3b97
+      internalID: -723419580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44651c37db552c46acc2f6a4602b333
+      internalID: 1663127838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788269dd27da3304e9289ca843b6abeb
+      internalID: 1766184251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05833359e69a0b489620af0ade9eb03
+      internalID: -564439215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50d78dfd2ce7e4780cf2c1642d54c8
+      internalID: 1554461554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 734
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a7995605e84c428133ca1cc87fc26
+      internalID: 724019158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 702
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e118d9802113499b8330b9af4d5b4
+      internalID: 708337699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 702
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b61038ff862d43886db8e71c0695a
+      internalID: 560797923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_25
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 702
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1f2183e9d709449f9938e1a22980e
+      internalID: 1887282773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_26
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 702
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ecea06a6fd5b4bb983b87742c352d
+      internalID: 522688395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d8c863221c43498fc8db3eccb097e
+      internalID: 1174092754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee697418a1a4d647a901a48d779149f
+      internalID: 1134730111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 701
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46176997d552b1546b17bdd49cd5ef08
+      internalID: 390436846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae1c007a660e5a4086c130d14610da7
+      internalID: 1056020784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa45b80e9955bd4d819489fbb4e0279
+      internalID: -272819065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efacf54344354845b92a81578591429
+      internalID: -872030464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290be13d47987ef41838137d62e1cf86
+      internalID: -14180611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3753bc247e9d840b1bc815d14b1695
+      internalID: 1494719259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e996304024d89940b144981faa20e72
+      internalID: 1160059233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a1a793fc8da543a105de989b38eb4
+      internalID: -1265139693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332b5032460b8b4aa59495d1457156f
+      internalID: -2004500619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_40
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c487ff5555e95c47a52fa5a85a36f18
+      internalID: 1192682179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 701
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d49cd9ab0ec484eac1f3397873dbaf
+      internalID: -1107791179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3524c3ee6a92f444aa000373d9329249
+      internalID: -1265819754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1663bacba20d0a44a7d6e8d537a5bac
+      internalID: -947344391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 668
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a33626d14b3024585d30aa75e2578b
+      internalID: -764222558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5162c8c7c032145bee967edccc78c2
+      internalID: 802036759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d646326d9fc33a42b3ccb51f3fbfa08
+      internalID: -1221133783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17639bc7e622a0846a013709672c1a74
+      internalID: -324316373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3cfbe2ae033a46aeedfe5e788415b
+      internalID: -2140597710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35364d18a344c0445a70370661455bb4
+      internalID: 412447882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c91435c5eb2043bb72883e7dd4945
+      internalID: 1450668311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6293ba73ea8d6a4ebb0ba7ec9563f2a
+      internalID: 1903920944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db179f46220858f44a9a5e627805604a
+      internalID: 139906840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_55
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0c38b6a25aef428040abad727b8a0
+      internalID: 1696847510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_56
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f77c47971a6554785c69f55f6530b2
+      internalID: -1907667139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8354c1f165883469caf4a67ff89679
+      internalID: 110986380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34874b92790e7446be794cc43fcf1f4
+      internalID: -373491842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 636
+        width: 98
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da17f621a89eea045972ab6b3b65af1f
+      internalID: 1310071545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7534f4f6639b686458fa58df98768fa5
+      internalID: 705653125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2e01c336932a45b2f27f0469424ef
+      internalID: -2143761475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edec3900b13fb4fb99d6849c09723f
+      internalID: -154952355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_65
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5062fbf43532a4f973c6a2db841535
+      internalID: 1848333472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_66
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ab4305f29ab94188e17eac231fa45
+      internalID: -1968171571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_67
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44ea4f60f418145970f7e55d739eef
+      internalID: -929448821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_68
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fd9308e2a15441a8dd671107bab4d
+      internalID: -758690253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_69
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050f427b8a0542c428656318bedea331
+      internalID: -262117127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_70
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41671d84c41644a985bcd1b4b6e8b2
+      internalID: 1423739421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_71
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 635
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e191778beefd9bd44ad3f170a008249d
+      internalID: -1447997962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc6443e9420c94384d2f7835ef7ad3
+      internalID: -166279191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588866a589980034c81803c7161db0e8
+      internalID: 2072147604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c9a6641cfe5df48b775f2810a5ee04
+      internalID: -2131707107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c12b996c5e63d41abd30bbe0eac2ed
+      internalID: -1391315363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f81e6f3f8544034194c1d56974fcdf9
+      internalID: -251496535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbb194b13c9fa946865a7c176bb50b2
+      internalID: -1227460662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc47b78ddd7ffb46a882eb8d0536c50
+      internalID: -261129426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 619
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2613775a47f11241ad72b3f15b53173
+      internalID: -1942856008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 618
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816cf5c5995e8544d93c39237a55e6df
+      internalID: -910025769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_81
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 616
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a709541c671c438018154ccc7c6e6
+      internalID: -1707047869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_82
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 618
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b92a7f2ca62040a2898d4832c0347
+      internalID: 1950105042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_83
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 451
+        width: 25
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7313ac098b944ba17df7f774c53c8
+      internalID: 1428326913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_84
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 521
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1b61a4ca98ee34f809b0b1dcbee038
+      internalID: -1555464659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_85
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 521
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4184c0dcb6e2e654382369df7d1b02bc
+      internalID: -1830174985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 450
+        width: 64
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15b50cb39e859d4cadb36362024d207
+      internalID: 1772531572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 32
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaa41702e21d8c479ce2182f4e27bb6
+      internalID: 2133600247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 451
+        width: 64
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca508e0ef9a349441a0cb5c0b9860c75
+      internalID: -627436747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_89
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 451
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711835c2c900d604da9339571a9621f1
+      internalID: 462510351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_90
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 451
+        width: 64
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb33a75451c4f44c994e72051612e38
+      internalID: -1198131222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 451
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc6a4dec11fcc4d8f8054b9ae8dc9a
+      internalID: 1778688459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_92
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 451
+        width: 32
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baecb9af4f7eed140bcebb56133beb1b
+      internalID: -984796974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_93
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 451
+        width: 38
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6a1315907f3b4f8d6c2a4f28d0536
+      internalID: -2042433755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 451
+        width: 49
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4eef1449bbf0b46bfe3dc2e36e6219
+      internalID: 1647700269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_95
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 451
+        width: 18
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f79547b9b38f34ca80041d29c8bba1
+      internalID: 99285413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_96
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 451
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3991bea62397254380059b67570f47e
+      internalID: 38906956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_97
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 451
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeaa8bb23f0a3d4f88f54a7ea0352c6
+      internalID: 1842687944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_98
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 417
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346b7b66824f8b4d9a58fe3520c2368
+      internalID: 210449466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_99
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 417
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93568230b18a9d4448bb48d2da7679e5
+      internalID: -65234217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 430
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5a30257d388a409ac49cbdaf0c9fe
+      internalID: 545455048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_101
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 430
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c6ddbcc163de468e02f125150fcb7
+      internalID: 624689932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 430
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdae14f760d69ec498caf6c45bacb051
+      internalID: 2040673946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_103
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 430
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d080e2ead73c8a43b75818d639bf18c
+      internalID: -1700239097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_104
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 431
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f9ec56e09b714b82bd1769ced5181
+      internalID: -468488320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 431
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded01af467abca545b4dbe0c9528e0b7
+      internalID: 995332695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_106
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 431
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9288152effdce498aa6b1dfc8b9edb
+      internalID: -797037028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_107
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 431
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2411f960f5edde8478fe8965e35c1af5
+      internalID: -842675536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fadcfff7633754bb998f1827ccd96a
+      internalID: -1434857320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_109
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 394
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337306f80b2eabe49ba3fb965a07be11
+      internalID: 764704511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_110
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 394
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02a64143eb2ee488da082b1accf829
+      internalID: 1477490028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_111
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 394
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38547a1941664f145a9ca3a5001edd3d
+      internalID: 1702563082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 394
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9c881deb95ac4c9d7d40a82883b61
+      internalID: -271653445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_113
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 394
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64987f33ea321104695c2be0ed1b2b50
+      internalID: -298944416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 394
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9ad56f4e46c0479eb094873b8c3f0
+      internalID: 1448435083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_115
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 394
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde7eb6e042a67b48b77f3f3e37e8a4e
+      internalID: 1558138557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_116
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 313
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38ca4a2b8383cf42b380ee40b84859c
+      internalID: 371706139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_117
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 313
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872644a84d0e88746a6fc2bdf4b8b0e3
+      internalID: 463211261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d179bac6283c160448cf71df6c1fffed
+      internalID: 1166274745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_119
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d60ca90a26fb4e999ce19af88c423
+      internalID: 457333764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_120
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5bb3b256cfc0144a7f65cc3864ae02
+      internalID: 1416231788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc694a28c388149b59d172cc5d58dc
+      internalID: 1304668759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dbb57ef2bd35143a6bd2caffcbb010
+      internalID: 1814945874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_123
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9a55eab1e85046b114c362c44ceb6
+      internalID: -770477885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_124
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dbad4a297407e449d679a37f1c4d0a
+      internalID: -1741586427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_125
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50bfa77c49a74e47ab0af19e6e8ea3d
+      internalID: 728470090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_126
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45326e845223624428df26ea6c2a8dce
+      internalID: -1711220635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_127
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 377
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be9f4a146fd334ca7043893619f134
+      internalID: -1444022756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_128
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 342
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d239a2677f124d8870243b4bac82b
+      internalID: 1018371214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_129
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 342
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92964aa347867df4baf3ae36474f47b4
+      internalID: 1829594106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 329
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55e1e0376e395a4ea9e10fbe4f3e12b
+      internalID: -1804188893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_131
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 329
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0570ecf2bc039244a9c4b6d5c4a9333
+      internalID: -1990296945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_132
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 368
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d294e2cc84ee5478ad5f4074678fbe
+      internalID: 1519429401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_133
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 368
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74aa1c59ca0760419c5e7d56af2d1ea
+      internalID: -141518459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_134
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 350
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db56f7e548c1adc4bb17cf1e5d908e17
+      internalID: -236840689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_135
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 350
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed66681787b144baa59a64c676cc2f
+      internalID: -365692896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_136
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 341
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376eac8ab51375743a64f5ab40c35e35
+      internalID: -396981577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_137
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 341
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77518f137a01fd44897ceeded8d19ad
+      internalID: 1090784816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5dd996f9c5f14f92443d2d5645fcf
+      internalID: -1222128692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_139
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 281
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4207daf1a7b50498e96414350efb9e
+      internalID: 1050431136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_140
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 317
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaeb33f571dee940a9e2d94f4c99273
+      internalID: -984744674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_141
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 317
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b220772d2508040a8d8c1c75a76871
+      internalID: -964400101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_142
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 290
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62dbc35169002044b093d45fa3553a8
+      internalID: 1319181923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_143
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 290
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9c81d828ace34e99ee048c799a558
+      internalID: -1830232037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_144
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 293
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5162ee66f1be439f9cbe2267cecd5
+      internalID: 229811814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_145
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 293
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e60a6d27d473a41adc0c8314d0ea00
+      internalID: -1923481115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_146
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 209
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154713b77093b8f479afc734cc5b3fc2
+      internalID: -1740709171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_147
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 209
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f981b254792f6a41b3c10d6b2133992
+      internalID: -1596644694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 124
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6d146beee33bc41a463554f6127dbd
+      internalID: -821190663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_149
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 233
+        width: 124
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bdb3370b7670a439c55e5216772904
+      internalID: 472600824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_150
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 269
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a9a6fcced5934ea4df51803bb589d
+      internalID: -1300389814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_151
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 269
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983418cda58697f43b1803d8813f2ed6
+      internalID: -1239183096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_152
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 238
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798ca3c166de4544973931842d66235
+      internalID: 1738803793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_153
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 238
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686abfcfbadd69a45824e21ea9bd1a0c
+      internalID: -481360306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_154
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 245
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505fe85989303734682f63a2e2f8d578
+      internalID: 1533854985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_155
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 245
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef14dbb50804943902cf54572e3869
+      internalID: 544343652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3bbf7522d3f5445bf63183f5744a7a
+      internalID: -1721237458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_157
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 185
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8545244977b7e48979b484742de948
+      internalID: -834263348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_158
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 186
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447eb7e709a8f3445b842ddbca200ff4
+      internalID: 1271112833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_159
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 186
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fba07dc54d9e794b807a655c469f658
+      internalID: 219026472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_160
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 105
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c8f3b6aee8f444a9aaab46053fd5cc
+      internalID: 644948368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_161
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 105
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd030918f7ebc04895a5775ebe6c1d5
+      internalID: -1224412162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_162
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 134
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b134c1fbe9288b46a8ed56035e93c87
+      internalID: -269923407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_163
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 134
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4ef34666e1f243b903f47c142e8a2
+      internalID: 1809649038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_164
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 82
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a651cee048ed84886f3814b25c7021
+      internalID: -1324895803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_165
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 82
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373a89d825d4e348849861247db9afd
+      internalID: -2125226684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_166
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c53239b974daf4396d336e8f3aaf97
+      internalID: -949143728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_city_0(1)_167
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1
+        width: 206
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c14494cf9dea6459114d481fc06010
+      internalID: -1515325439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fond2: -963727175
+      fondo1: -94564923
+      fondo3: -647062607
+      future_city_0(1)_10: -2020143266
+      future_city_0(1)_100: 545455048
+      future_city_0(1)_101: 624689932
+      future_city_0(1)_102: 2040673946
+      future_city_0(1)_103: -1700239097
+      future_city_0(1)_104: -468488320
+      future_city_0(1)_105: 995332695
+      future_city_0(1)_106: -797037028
+      future_city_0(1)_107: -842675536
+      future_city_0(1)_108: -1434857320
+      future_city_0(1)_109: 764704511
+      future_city_0(1)_11: -1648913768
+      future_city_0(1)_110: 1477490028
+      future_city_0(1)_111: 1702563082
+      future_city_0(1)_112: -271653445
+      future_city_0(1)_113: -298944416
+      future_city_0(1)_114: 1448435083
+      future_city_0(1)_115: 1558138557
+      future_city_0(1)_116: 371706139
+      future_city_0(1)_117: 463211261
+      future_city_0(1)_118: 1166274745
+      future_city_0(1)_119: 457333764
+      future_city_0(1)_12: -1667880688
+      future_city_0(1)_120: 1416231788
+      future_city_0(1)_121: 1304668759
+      future_city_0(1)_122: 1814945874
+      future_city_0(1)_123: -770477885
+      future_city_0(1)_124: -1741586427
+      future_city_0(1)_125: 728470090
+      future_city_0(1)_126: -1711220635
+      future_city_0(1)_127: -1444022756
+      future_city_0(1)_128: 1018371214
+      future_city_0(1)_129: 1829594106
+      future_city_0(1)_13: -1981491890
+      future_city_0(1)_130: -1804188893
+      future_city_0(1)_131: -1990296945
+      future_city_0(1)_132: 1519429401
+      future_city_0(1)_133: -141518459
+      future_city_0(1)_134: -236840689
+      future_city_0(1)_135: -365692896
+      future_city_0(1)_136: -396981577
+      future_city_0(1)_137: 1090784816
+      future_city_0(1)_138: -1222128692
+      future_city_0(1)_139: 1050431136
+      future_city_0(1)_14: -1131833996
+      future_city_0(1)_140: -984744674
+      future_city_0(1)_141: -964400101
+      future_city_0(1)_142: 1319181923
+      future_city_0(1)_143: -1830232037
+      future_city_0(1)_144: 229811814
+      future_city_0(1)_145: -1923481115
+      future_city_0(1)_146: -1740709171
+      future_city_0(1)_147: -1596644694
+      future_city_0(1)_148: -821190663
+      future_city_0(1)_149: 472600824
+      future_city_0(1)_15: -2005996934
+      future_city_0(1)_150: -1300389814
+      future_city_0(1)_151: -1239183096
+      future_city_0(1)_152: 1738803793
+      future_city_0(1)_153: -481360306
+      future_city_0(1)_154: 1533854985
+      future_city_0(1)_155: 544343652
+      future_city_0(1)_156: -1721237458
+      future_city_0(1)_157: -834263348
+      future_city_0(1)_158: 1271112833
+      future_city_0(1)_159: 219026472
+      future_city_0(1)_16: 792445629
+      future_city_0(1)_160: 644948368
+      future_city_0(1)_161: -1224412162
+      future_city_0(1)_162: -269923407
+      future_city_0(1)_163: 1809649038
+      future_city_0(1)_164: -1324895803
+      future_city_0(1)_165: -2125226684
+      future_city_0(1)_166: -949143728
+      future_city_0(1)_167: -1515325439
+      future_city_0(1)_17: -723419580
+      future_city_0(1)_18: 1663127838
+      future_city_0(1)_19: 1766184251
+      future_city_0(1)_20: -564439215
+      future_city_0(1)_21: 1554461554
+      future_city_0(1)_22: 724019158
+      future_city_0(1)_23: 708337699
+      future_city_0(1)_24: 560797923
+      future_city_0(1)_25: 1887282773
+      future_city_0(1)_26: 522688395
+      future_city_0(1)_27: 1174092754
+      future_city_0(1)_28: 1134730111
+      future_city_0(1)_29: 390436846
+      future_city_0(1)_3: 1546263830
+      future_city_0(1)_30: -1510981760
+      future_city_0(1)_31: -2016529258
+      future_city_0(1)_32: 1056020784
+      future_city_0(1)_33: -272819065
+      future_city_0(1)_34: -872030464
+      future_city_0(1)_35: -14180611
+      future_city_0(1)_36: 1494719259
+      future_city_0(1)_37: 1160059233
+      future_city_0(1)_38: -1265139693
+      future_city_0(1)_39: -2004500619
+      future_city_0(1)_4: 1728583659
+      future_city_0(1)_40: 1192682179
+      future_city_0(1)_41: -1107791179
+      future_city_0(1)_42: -1265819754
+      future_city_0(1)_43: -947344391
+      future_city_0(1)_44: -764222558
+      future_city_0(1)_45: -1173750355
+      future_city_0(1)_46: 1962962260
+      future_city_0(1)_47: 802036759
+      future_city_0(1)_48: -1221133783
+      future_city_0(1)_49: -324316373
+      future_city_0(1)_5: 543779857
+      future_city_0(1)_50: -2140597710
+      future_city_0(1)_51: 412447882
+      future_city_0(1)_52: 1450668311
+      future_city_0(1)_53: 1903920944
+      future_city_0(1)_54: 139906840
+      future_city_0(1)_55: 1696847510
+      future_city_0(1)_56: -1907667139
+      future_city_0(1)_57: 110986380
+      future_city_0(1)_58: -373491842
+      future_city_0(1)_59: 1310071545
+      future_city_0(1)_6: 1627463970
+      future_city_0(1)_60: 366344343
+      future_city_0(1)_61: -1739713636
+      future_city_0(1)_62: 705653125
+      future_city_0(1)_63: -2143761475
+      future_city_0(1)_64: -154952355
+      future_city_0(1)_65: 1848333472
+      future_city_0(1)_66: -1968171571
+      future_city_0(1)_67: -929448821
+      future_city_0(1)_68: -758690253
+      future_city_0(1)_69: -262117127
+      future_city_0(1)_7: -961546594
+      future_city_0(1)_70: 1423739421
+      future_city_0(1)_71: -1447997962
+      future_city_0(1)_72: -166279191
+      future_city_0(1)_73: 2072147604
+      future_city_0(1)_74: -2131707107
+      future_city_0(1)_75: -1391315363
+      future_city_0(1)_76: -251496535
+      future_city_0(1)_77: -1227460662
+      future_city_0(1)_78: -261129426
+      future_city_0(1)_79: -1942856008
+      future_city_0(1)_8: -1836912883
+      future_city_0(1)_80: -910025769
+      future_city_0(1)_81: -1707047869
+      future_city_0(1)_82: 1950105042
+      future_city_0(1)_83: 1428326913
+      future_city_0(1)_84: -1555464659
+      future_city_0(1)_85: -1830174985
+      future_city_0(1)_86: 1772531572
+      future_city_0(1)_87: 2133600247
+      future_city_0(1)_88: -627436747
+      future_city_0(1)_89: 462510351
+      future_city_0(1)_9: 1199307541
+      future_city_0(1)_90: -1198131222
+      future_city_0(1)_91: 1778688459
+      future_city_0(1)_92: -984796974
+      future_city_0(1)_93: -2042433755
+      future_city_0(1)_94: 1647700269
+      future_city_0(1)_95: 99285413
+      future_city_0(1)_96: 38906956
+      future_city_0(1)_97: 1842687944
+      future_city_0(1)_98: 210449466
+      future_city_0(1)_99: -65234217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
